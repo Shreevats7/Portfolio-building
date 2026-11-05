@@ -9,3 +9,5 @@ This repository will help me track my learning and improve my programming skills
 Currently learning Python programming.
 
 Interested in web development and software development.
+
+Goal: Build useful software projects and contribute to open source.
