@@ -7,3 +7,5 @@ This repository will help me track my learning and improve my programming skills
 
 
 Currently learning Python programming.
+
+Interested in web development and software development.
