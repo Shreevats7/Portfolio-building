@@ -11,3 +11,18 @@ Currently learning Python programming.
 Interested in web development and software development.
 
 Goal: Build useful software projects and contribute to open source.
+
+
+## Projects
+
+### 1. Portfolio Building
+- **Description:** A personal portfolio repository created to learn Git and GitHub.
+- **Technologies:** Git, GitHub, Markdown.
+
+### 2. Python Learning
+- **Description:** Learning Python programming and developing problem-solving skills.
+- **Technologies:** Python.
+
+### 3. Web Development
+- **Description:** Learning HTML, CSS, JavaScript and React to build interactive websites.
+- **Technologies:** HTML, CSS, JavaScript, React.
